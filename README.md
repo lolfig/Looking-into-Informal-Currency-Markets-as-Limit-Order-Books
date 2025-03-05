@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes cuban informal currency market by modeling them as limit order books (LOBs). It processes financial messages, extracts structured data, simulates an order book, and applies analytical techniques to understand market microstructure dynamics.
+This project analyzes the Cuban informal currency market by modeling it as a limit order book (LOB). It involves web scraping to collect financial data, processing financial messages, extracting structured data, simulating an order book, and applying analytical techniques to explore the dynamics of market microstructure.
 
 ## Features
 
